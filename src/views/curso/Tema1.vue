@@ -390,7 +390,7 @@
         figure
           img(src="@/assets/curso/tema1/27.png", data-aos="zoom-in")
     
-    .bg-full-width.bg-color-1
+    .bg-full-width.bg-color-1.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
           .col-lg-auto
